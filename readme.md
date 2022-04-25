@@ -1,1 +1,2 @@
-    Site feito com o conhecimento adquirido do curso de Desenvolvimento web - Full stack do produtor de conteúdo igor oliveira.
+   Workshop feito utilizando CSS e HTML, juntamente com o Mailchimp para armazenar os dados dos cadastrados no formulário.
+   
